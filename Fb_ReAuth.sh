@@ -49,13 +49,13 @@ cookie=${cok//[[:blank:]]/} #removing spaces
 echo -e "${l}Paste valid facebook fb_dtsg here"
 read -p ">" dtsg 
 dtsg=${dtsg//[[:blank:]/}
-postdata="$postdata &fb_dtsg=$dtsg &pass="
+postdata="$postdata&fb_dtsg=$dtsg &pass="
 
 
 #prompt fb password
 echo -e "${l}Paste  facebook password here "
 read -p ">" pass 
-postdata="$postdata &pass"
+postdata="$postdata&pass"
 
 
 
