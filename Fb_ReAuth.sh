@@ -1,8 +1,5 @@
 
-#!/bin/bash
-#Red 0;31    #Orange 0;33   #lightgreen 1;32     #yellow 1;33 
-
-
+#!/bin/bash 
 RED='\033[1;31m'
 brown='\033[0;33m'
 Green='\033[1;32m'
