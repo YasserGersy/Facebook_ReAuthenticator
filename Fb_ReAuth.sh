@@ -21,7 +21,7 @@ UserAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:47.0) Gecko/20100101 
 Accept="Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
 AcceptLanguage="Accept-Language: en-US,en;q=0.5"
 AcceptEncoding="Accept-Encoding: gzip, deflate, br"
-Referer="Referer: https://m.facebook.com/password/reauth/?next=https%3A%2F%2Fm.facebook.com%2Fentercode.php%3Fcp%3Dadmin%2540google.com%26refid%3D74&_rdr"
+Referer="Referer: https://m.facebook.com/password/reauth/?next=https%3A%2F%2Fm.facebook.com%2F"
 
  
 clear
